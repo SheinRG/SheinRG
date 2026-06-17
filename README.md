@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"><img src="./assets/pacman.gif" width="480" alt="divider" /></p>
+<p align="center"><img src="./assets/bhaaago.gif" width="480" alt="divider" /></p>
 
 ### `// WHO`
 
