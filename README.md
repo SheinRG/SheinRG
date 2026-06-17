@@ -12,22 +12,31 @@
 
 ### `// WHO`
 
-Pre final year CS student building full stack and AI products. I like turning rough ideas into deployed things, agents that do real work, retrieval pipelines, and automations that quietly run in the background.
+I am a pre final year Computer Science student who builds things and actually ships them. Full stack is my home base, but lately most of my energy goes into the AI side of it, agents that do real work, retrieval pipelines that answer from your own documents, and automations that quietly run in the background while you sleep.
 
-Interned at **EazyDiner** (Full Stack) and **Medulance** (SDE). Currently shipping side projects and chasing the next good problem.
+I care less about toy demos and more about software that is deployed, used, and a little bit fun to look at. Give me a rough idea and I will turn it into a running product, schema to UI, with the loading states and error handling people usually skip.
+ When I am not building, I am usually breaking down a new tool, grinding DSA , or refactoring something that already worked just because it could be cleaner.
+
+Always down to build something interesting. If you have a hard problem, I want to hear about it.
 
 ---
 
 ### `// BUILDING`
 
 **[RAG Document Intelligence Platform](https://nexus-ai-theta-seven.vercel.app)** &nbsp;`FastAPI` `PostgreSQL` `MongoDB` `Docker`
-Upload documents, ask questions, get grounded answers. Full retrieval pipeline, containerized.
+Upload your documents, ask questions, get answers grounded in the source. Full retrieval pipeline with a streaming response UI, fully containerized.
 
-**[Agentic Interview Coach](https://github.com/SheinRG/Agentic-Interview-coach-)** &nbsp;`Express` `WebSockets` `Multi LLM`
-Live interview practice with multi model orchestration and automatic failover.
+**[Agentic Interview Coach](https://github.com/SheinRG/Agentic-Interview-coach-)** &nbsp;`React` `Express` `WebSockets` `Multi LLM`
+Live interview practice with real time feedback, multi model orchestration, and automatic failover when a provider goes down. Tracks your progress across sessions.
 
-**Author Royalty Dashboard** &nbsp;`n8n` `Groq` `Webhooks`
-Royalty tracking with an automated notification system wired through n8n.
+**[AI Image Generation Platform](ADD_LIVE_LINK_HERE)** &nbsp;`React` `Express` `TypeScript` `Cloudinary`
+Generate, store, and browse AI images through a searchable, lazy loaded gallery with a Cloudinary upload pipeline.
+
+**[BookLeaf Author Support Portal](https://bookleaf-mauve.vercel.app)** &nbsp;`MERN` `RBAC` `AI Classification`
+Role based author support portal with AI ticket classification and end to end access control.
+
+**Author Royalty Dashboard** &nbsp;`Bubble.io` `n8n` `Groq` `Webhooks`
+Royalty tracking dashboard with an automated email notification system wired through n8n and Groq.
 
 ---
 
@@ -44,6 +53,7 @@ Royalty tracking with an automated notification system wired through n8n.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
